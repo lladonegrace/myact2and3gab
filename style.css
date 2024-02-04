@@ -1,0 +1,136 @@
+*{
+    margin: 0px;
+    padding-top: 0px;
+}
+
+.frame{
+width: 100%;
+height: 100vh;
+background: #ffffff;
+
+}
+
+.bg{
+    width: 100%;
+    height: 35%;
+    
+}
+.cute{
+    width: 100%;
+    height: 99vh;
+}
+
+.box{
+    width: 30%;
+    height: 450px;
+   background: rgb(255, 204, 145);
+  border-radius: 5%;
+   border: 2px solid rgb(139, 72, 17); 
+   position: absolute;
+   top: 70px;
+   left: 255px;
+}
+
+.personal{
+    margin-left: 30px;
+    position: absolute;
+    bottom: 110px;
+    
+}
+.personal {
+    position: absolute;
+    bottom: 330px;
+    color: white;
+    
+}
+
+.personal p {
+    margin-bottom: 5px;
+   
+}
+
+.personal2 p {
+    margin-bottom: 20px;
+    margin-left: 25px;
+}
+.personal2 h1 {
+    margin-bottom: 20px;
+    margin-left: 25px;
+}
+
+.grace{
+    width: 90px;
+    height: 90px;
+    background-color: brown;
+    border-radius: 50%; 
+    border: 2px solid white; 
+    position: absolute;
+    left: 280px;
+    bottom: 330px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+ 
+    
+
+}
+
+.box2{
+    width: 400px;
+    height: 450px;
+    background: rgb(255, 204, 145);
+   border-radius: 5%;
+   border: 2px solid rgb(139, 72, 17); 
+   position: absolute;
+   top: 70px;
+   right: 250px;
+}
+
+.val{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%; 
+    border: 2px solid white; 
+    position: absolute;
+    right: 40px;
+    bottom: 330px;
+}
+
+
+
+
+.personalval{
+    margin-left: 30px;
+    position: absolute;
+    bottom: 110px;
+    
+}
+.personalval {
+    position: absolute;
+    bottom: 330px;
+    color: white;
+    
+}
+
+.personalval p {
+    margin-bottom: 5px;
+   
+}
+
+.personal3 p {
+    margin-bottom: 20px;
+    margin-left: 25px;
+}
+.personal3 h1 {
+    margin-bottom: 20px;
+    margin-left: 25px;
+}
+
+
+.bg2{
+    width: 100%;
+    height: 35%;
+    
+}
